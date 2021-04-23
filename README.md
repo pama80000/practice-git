@@ -1,2 +1,2 @@
 # practice-git
-Gitの練習用
+更新
